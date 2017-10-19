@@ -1,1 +1,4 @@
+spring:
+    profiles: cloud
+
 message: This is company-specific
