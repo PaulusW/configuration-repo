@@ -1,0 +1,4 @@
+spring:
+    profiles: cloud
+
+message: This is a roster-specific cloud message.

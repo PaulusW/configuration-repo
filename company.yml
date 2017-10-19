@@ -1,4 +1,4 @@
 spring:
     profiles: cloud
 
-message: This is company-specific
+message: This is a company-specific cloud message.
